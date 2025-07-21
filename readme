@@ -1,0 +1,4 @@
+the URL is open, the link are read but the text of hyperlink is not read
+
+# Build the Bhav Copy URL based on observed pattern
+    url = f"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_{today}_F_0000.CSV"
